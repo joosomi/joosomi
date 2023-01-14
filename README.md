@@ -15,7 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JsomeDev&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JsomeDev&layout=compact)](https://github.com/JsomeDev/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JsomeDev&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JsomeDev&layout=compact&theme=dracula)](https://github.com/JsomeDev)
