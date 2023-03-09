@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=SOMI_JOO&fontSize=90)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joosomi&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joosomi&layout=compact&theme=radical)](https://github.com/joosomi)
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradiento&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
