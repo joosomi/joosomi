@@ -18,6 +18,20 @@ Here are some ideas to get you started:
 <div align=center>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=SOMI_JOO&fontSize=90)
+<div align="center">
+<p>Hello, My name is Somi!<br>
+I dream of becoming a backend developer.
+<br>I became interested in coding while learning R and Python for statistical analysis in university,
+<br>and after graduating, I studied web development and became fascinated with managing website servers and working with data.
+<br>
+My goal is to become a developer who can make a positive impact on society.
+<br>
+I am a dedicated and diligent learner who wants to continuously grow as a developer. 
+<br>
+I enjoy learning new things and going on adventures. 
+<br>Some of my hobbies include watching movies, as well as traveling, going to concerts, and festivals🙂
+</p>
+<div>
 
 <h1>📚 STACKS & TOOLS</h1></div>
 
@@ -56,6 +70,7 @@ Here are some ideas to get you started:
   <br>
   <h1 align="center">:phone: Follow Me </h1></div>
     <p align="center">
+<br>
       <a href="https://velog.io/@jsomedev"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@jsomedev"/></a>&nbsp
       <a href="mailto:wnthal1211@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=wnthal1211@gmail.com"/></a>
     </p>
