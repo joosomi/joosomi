@@ -29,7 +29,6 @@ My goal is to become a developer who can make a positive impact on society.
 I am a dedicated and diligent learner who wants to continuously grow as a developer. 
 <br>
 I enjoy learning new things and going on adventures. 
-<br>Some of my hobbies include watching movies, as well as traveling, going to concerts, and festivals🙂
 </p>
 <div>
 
