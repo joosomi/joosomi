@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=SOMI_JOO&fontSize=90)
 
-<h1>📚 STACKS&TOOLS</h1></div>
+<h1>📚 STACKS & TOOLS</h1></div>
 
 <div align=center> 
   <h3>Front</h3>
