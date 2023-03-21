@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 <div align="center">
 <p>Hello, My name is Somi!<br>
 I dream of becoming a backend developer.
-<br>I became interested in coding while learning R and Python for statistical analysis in university,
-<br>and after graduating, I've been studying web development and became fascinated with managing website servers and working with data.
+<br>I became interested in coding while learning R and Python for statistical analysis in university. After graduating,
+<br>I've been studying web development and became fascinated with managing website servers and working with data.
 <br>
 My goal is to become a developer who can make a positive impact on society.
 <br>
