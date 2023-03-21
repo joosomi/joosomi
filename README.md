@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align=center>
-### Somi Joo's Github 👋
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=SOMI_JOO&fontSize=90)
 
 <h1>📚 STACKS</h1></div>
