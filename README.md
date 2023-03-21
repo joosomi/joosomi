@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=SOMI_JOO&fontSize=90)
 
-<h1>📚 STACKS</h1></div>
+<h1>📚 STACKS&TOOLS</h1></div>
 
 <div align=center> 
   <h3>Front</h3>
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white">
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
-
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white">
   <br>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joosomi&theme=radical)
