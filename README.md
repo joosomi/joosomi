@@ -68,6 +68,12 @@ I enjoy learning new things and going on adventures.
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
   <br>
   <br>
+  
+--------------------------------------
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joosomi&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joosomi&layout=compact&theme=radical)](https://github.com/joosomi)  
+
   <h1 align="center">:phone: Follow Me </h1></div>
     <p align="center">
 <br>
@@ -75,7 +81,6 @@ I enjoy learning new things and going on adventures.
       <a href="mailto:wnthal1211@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=wnthal1211@gmail.com"/></a>
     </p>
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joosomi&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joosomi&layout=compact&theme=radical)](https://github.com/joosomi)
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
 </div>
