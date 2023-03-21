@@ -54,6 +54,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
   <br>
   <br>
+  <h1>:phone: Contacts </h1></div>
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto: wnthal1211@gmail.com)](mailto: wnthal1211@gmail.com)
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joosomi&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joosomi&layout=compact&theme=radical)](https://github.com/joosomi)
