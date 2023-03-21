@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=SOMI_JOO&fontSize=90)
 ![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jsomedev&color=dark)](https://velog.io/@jsomedev)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jsomedev&color=dark)](https://velog.io/@jsomedev)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=JsomeDev)](https://velog.io/@seulki971227)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=wnthal1211@naver.com)](https://velog.io/@jsomedev)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joosomi&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joosomi&layout=compact&theme=radical)](https://github.com/joosomi)
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
