@@ -28,6 +28,8 @@ My goal is to become a developer who can make a positive impact on society.
 I am a dedicated and diligent learner who wants to continuously grow as a developer. 
 <br>
 I enjoy learning new things and going on adventures. 
+<br><br>
+      <a href="https://www.notion.so/somijoo/Somi-Joo-s-portfolio-1-977fa31d93294dcfa3045188ea11f002?pvs=4"><img src="https://img.shields.io/badge/Portfolio-44C1C5?style=for-the-badge&logo=Notion&logoColor=white"></a>
 </p>
 <div>
 
@@ -81,7 +83,7 @@ I enjoy learning new things and going on adventures.
 <br>
       <a href="https://velog.io/@jsomedev"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@jsomedev"/></a>&nbsp
       <a href="mailto:wnthal1211@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=wnthal1211@gmail.com"/></a>
-    </p>
+      </p>
   
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
