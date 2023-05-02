@@ -29,7 +29,7 @@ I am a dedicated and diligent learner who wants to continuously grow as a develo
 <br>
 I enjoy learning new things and going on adventures. 
 <br><br>
-      <a href="https://somijoo.notion.site/Somi-Joo-s-portfolio-for-github-977fa31d93294dcfa3045188ea11f002"><img src="https://img.shields.io/badge/Portfolio-44C1C5?style=for-the-badge&logo=Notion&logoColor=white"></a>
+
 </p>
 <div>
 
