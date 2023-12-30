@@ -31,7 +31,6 @@ I enjoy learning new things and going on adventures.
 </p>
 <div>
 
---------------------------------------
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joosomi&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joosomi&layout=compact&theme=radical)](https://github.com/joosomi)  
