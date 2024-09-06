@@ -30,7 +30,7 @@
 
   <br>
 
-  ### 🐾 Gitanimals
+ 
   <p></p>
   <a href="https://github.com/joosomi/gitanimals">
     <img src="https://render.gitanimals.org/lines/joosomi?pet-id=1" width="1000" height="120"/>
