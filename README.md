@@ -32,11 +32,20 @@
 
  
   <p></p>
-  <a href="https://github.com/joosomi/gitanimals">
-    <img src="https://render.gitanimals.org/lines/joosomi?pet-id=1" width="1000" height="120"/>
-    <br>
-    <img src="https://render.gitanimals.org/farms/joosomi"/>
+  <a href="https://github.com/devxb/gitanimals">
+    <img
+      src="https://render.gitanimals.org/lines/joosomi?pet-id=653899214607246479"
+      width="600"
+      height="120"
+    />
   </a>
+
+  <img
+    src="https://render.gitanimals.org/farms/joosomi"
+    width="600"
+    height="300"
+  />
+
 
   <br>
 
