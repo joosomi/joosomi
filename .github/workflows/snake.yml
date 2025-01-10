@@ -1,4 +1,4 @@
-name: generate animation
+name: Generate Animation with Themes
 
 on:
   schedule:
@@ -12,9 +12,10 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    
+
     steps:
-      - name: Generate Snake Animation
+      # 기존 Snake 애니메이션
+      - name: Generate Default Snake Animation
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: "joosomi"
@@ -22,6 +23,67 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      # 🌅 Warm Sunset Theme
+      - name: Generate Warm Sunset Theme
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: "joosomi"
+          outputs: |
+            dist/sunset.gif?color_snake=#FF6347&color_dots=#FFD700,#FFA500,#FF8C00,#FF4500,#FF6347
+          color_snake: "#FF6347"
+          color_dots: "#FFD700,#FFA500,#FF8C00,#FF4500,#FF6347"
+
+      # 🎨 Pastel Theme
+      - name: Generate Pastel Theme
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: "joosomi"
+          outputs: |
+            dist/pastel.gif?color_snake=#98FB98&color_dots=#ADD8E6,#87CEFA,#B0E0E6,#AFEEEE,#E0FFFF
+          color_snake: "#98FB98"
+          color_dots: "#ADD8E6,#87CEFA,#B0E0E6,#AFEEEE,#E0FFFF"
+
+      # 💙 Calm Blue Theme
+      - name: Generate Calm Blue Theme
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: "joosomi"
+          outputs: |
+            dist/calmblue.gif?color_snake=#000080&color_dots=#4682B4,#5F9EA0,#6495ED,#7B68EE,#4169E1
+          color_snake: "#000080"
+          color_dots: "#4682B4,#5F9EA0,#6495ED,#7B68EE,#4169E1"
+
+      # 🎃 Halloween Theme
+      - name: Generate Halloween Theme
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: "joosomi"
+          outputs: |
+            dist/halloween.gif?color_snake=#FF7518&color_dots=#FF7518,#FFA500,#000000,#4B0082
+          color_snake: "#FF7518"
+          color_dots: "#FF7518,#FFA500,#000000,#4B0082"
+
+      # ❄️ Winter Theme
+      - name: Generate Winter Theme
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: "joosomi"
+          outputs: |
+            dist/winter.gif?color_snake=#ADD8E6&color_dots=#B0E0E6,#AFEEEE,#4682B4,#5F9EA0
+          color_snake: "#ADD8E6"
+          color_dots: "#B0E0E6,#AFEEEE,#4682B4,#5F9EA0"
+
+      # 🎄 Christmas Theme
+      - name: Generate Christmas Theme
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: "joosomi"
+          outputs: |
+            dist/christmas.gif?color_snake=#FF0000&color_dots=#FF0000,#008000,#FFD700,#FFFFFF
+          color_snake: "#FF0000"
+          color_dots: "#FF0000,#008000,#FFD700,#FFFFFF"
+
+      # Push to Output Branch
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
