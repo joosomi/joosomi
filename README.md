@@ -33,12 +33,15 @@
  
   <p></p>
   <a href="https://github.com/devxb/gitanimals">
-    <img
+
+  <img
       src="https://render.gitanimals.org/lines/joosomi?pet-id=653899214607246479"
       width="600"
       height="120"
-    />
+  />
   </a>
+
+  <img src="https://github.com/joosomi/joosomi/blob/output/christmas.gif" alt="Christmas Snake" width="600">
 
   <img
     src="https://render.gitanimals.org/farms/joosomi"
